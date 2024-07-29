@@ -1,0 +1,9 @@
+name: 'investment_portfolio'
+version: '1.0'
+profile: 'investment_portfolio_profile'
+
+source-paths: ["models"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"

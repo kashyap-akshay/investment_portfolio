@@ -1,0 +1,10 @@
+
+pandas
+sqlalchemy
+sqlite
+dbt
+sqlite3
+smtplib
+email
+apache-airflow
+apache-airflow-dbt

@@ -1,0 +1,9 @@
+investment_portfolio_profile:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: investment_portfolio
+      schema: main
+      path: '/[path]/investment_portfolio.db'  #ToDo Adjust the path to your SQLite database file
